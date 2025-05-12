@@ -71,7 +71,7 @@ dependencies {
     implementation group: 'org.fusesource.jansi', name: 'jansi', version: '2.4.0'
     implementation 'com.github.stefvanschie.inventoryframework:IF:0.10.19'
     implementation "net.kyori:adventure-text-minimessage:4.17.0"
-    implementation "dev.jorel:commandapi-bukkit-shade:9.7.0"
+    implementation "dev.jorel:commandapi-bukkit-shade:10.0.1"
     implementation 'de.rapha149.signgui:signgui:2.5.0'
 
     compileOnly 'me.clip:placeholderapi:2.11.6'
